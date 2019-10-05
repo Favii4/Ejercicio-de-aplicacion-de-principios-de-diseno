@@ -1,5 +1,5 @@
 
-# Ejercicio de aplicacion de principios de diseno (PALINDROMO)
+# Ejercicio de aplicacion de principios de diseño (PALINDROMO)
 
 Nuestro ejercicio nos dice si una palabra o una frase es palindroma o no.
 
